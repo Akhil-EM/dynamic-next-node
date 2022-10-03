@@ -1,0 +1,1234 @@
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\util\functions\write-log.js  
+  type= app
+  error= 
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api  
+  type= app
+  error= 
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api  
+  type= app
+  error= 
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api  
+  type= 
+  error= 
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api  
+  type= 
+  error= 
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\user.controller.js  
+  type= 34
+  error= user validation failed: salt: Path `salt` is required., hash: Path `hash` is required., name: Path `name` is required., email: Path `email` is required.
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\user.controller.js  
+  type= 62
+  error= Invalid select: select only takes 1 argument
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\user.controller.js  
+  type= 71
+  error= secretOrPrivateKey must have a value
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\user.controller.js  
+  type= 73
+  error= secretOrPrivateKey must have a value
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\user.controller.js  
+  type= 73
+  error= secretOrPrivateKey must have a value
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\user.controller.js  
+  type= 72
+  error= secretOrPrivateKey must have a value
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\user.controller.js  
+  type= 97
+  error= Token.delete is not a function
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\user.controller.js  
+  type= 97
+  error= Token.delete is not a function
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\user.controller.js  
+  type= 97
+  error= Token.delete is not a function
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\user.controller.js  
+  type= 97
+  error= Token.destroy is not a function
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\user.controller.js  
+  type= 98
+  error= Token.delete is not a function
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\user.controller.js  
+  type= 98
+  error= Token.delete is not a function
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\user.controller.js  
+  type= 98
+  error= Token.delete is not a function
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\user.controller.js  
+  type= 98
+  error= Token.delete is not a function
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\user.controller.js  
+  type= 38
+  error= user validation failed: email: Path `email` is required., name: Path `name` is required., hash: Path `hash` is required., salt: Path `salt` is required.
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 49
+  error= Cannot read properties of undefined (reading 'image')
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 50
+  error= Cannot read properties of undefined (reading 'image')
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 50
+  error= post validation failed: image.type: Cast to Number failed for value "image/jpeg" (type string) at path "image.type"
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 50
+  error= post validation failed: image.type: Cast to Number failed for value "image/jpeg" (type string) at path "image.type"
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 105
+  error= Cast to ObjectId failed for value "my-posts" (type string) at path "_id" for model "post"
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 105
+  error= Cast to ObjectId failed for value "my-posts" (type string) at path "_id" for model "post"
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 106
+  error= Cast to ObjectId failed for value "my-posts" (type string) at path "_id" for model "post"
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 106
+  error= Cast to ObjectId failed for value "my-posts" (type string) at path "_id" for model "post"
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 106
+  error= Cast to ObjectId failed for value "my-posts" (type string) at path "_id" for model "post"
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 107
+  error= Cast to ObjectId failed for value "my-posts" (type string) at path "_id" for model "post"
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 108
+  error= Cast to ObjectId failed for value "my-posts" (type string) at path "_id" for model "post"
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 108
+  error= Cast to ObjectId failed for value "my-posts" (type string) at path "_id" for model "post"
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 108
+  error= Cast to ObjectId failed for value "my-posts" (type string) at path "_id" for model "post"
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 108
+  error= Cast to ObjectId failed for value "my-posts" (type string) at path "_id" for model "post"
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 108
+  error= Cast to ObjectId failed for value "my-posts" (type string) at path "_id" for model "post"
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 137
+  error= title is not defined
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 89
+  error= Cast to ObjectId failed for value "my-posts" (type string) at path "_id" for model "post"
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 89
+  error= Cast to ObjectId failed for value "my-posts" (type string) at path "_id" for model "post"
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 89
+  error= Cast to ObjectId failed for value "my-posts" (type string) at path "_id" for model "post"
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 89
+  error= Cast to ObjectId failed for value "my-posts" (type string) at path "_id" for model "post"
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 89
+  error= Cast to ObjectId failed for value "my-posts" (type string) at path "_id" for model "post"
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 89
+  error= Cast to ObjectId failed for value "my-posts" (type string) at path "_id" for model "post"
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 89
+  error= Cast to ObjectId failed for value "my-posts" (type string) at path "_id" for model "post"
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 89
+  error= Cast to ObjectId failed for value "my-posts" (type string) at path "_id" for model "post"
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 89
+  error= Cast to ObjectId failed for value "my-posts" (type string) at path "_id" for model "post"
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 89
+  error= Cast to ObjectId failed for value "my-posts" (type string) at path "_id" for model "post"
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 89
+  error= Cast to ObjectId failed for value "my-posts" (type string) at path "_id" for model "post"
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 89
+  error= Cast to ObjectId failed for value "my-posts" (type string) at path "_id" for model "post"
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 89
+  error= Cast to ObjectId failed for value "my-posts" (type string) at path "_id" for model "post"
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 89
+  error= Cast to ObjectId failed for value "my-posts" (type string) at path "_id" for model "post"
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 89
+  error= Cast to ObjectId failed for value "my-posts" (type string) at path "_id" for model "post"
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 89
+  error= Cast to ObjectId failed for value "my-posts" (type string) at path "_id" for model "post"
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 89
+  error= Cast to ObjectId failed for value "my-posts" (type string) at path "_id" for model "post"
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 89
+  error= Cast to ObjectId failed for value "my-posts" (type string) at path "_id" for model "post"
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 89
+  error= Cast to ObjectId failed for value "my-posts" (type string) at path "_id" for model "post"
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 89
+  error= Cast to ObjectId failed for value "my-posts" (type string) at path "_id" for model "post"
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 89
+  error= Cast to ObjectId failed for value "my-posts" (type string) at path "_id" for model "post"
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 89
+  error= Cast to ObjectId failed for value "my-posts" (type string) at path "_id" for model "post"
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 89
+  error= Cast to ObjectId failed for value "my-posts" (type string) at path "_id" for model "post"
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 89
+  error= Cast to ObjectId failed for value "my-posts" (type string) at path "_id" for model "post"
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 89
+  error= Cast to ObjectId failed for value "my-posts" (type string) at path "_id" for model "post"
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 89
+  error= Cast to ObjectId failed for value "my-posts" (type string) at path "_id" for model "post"
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 89
+  error= Cast to ObjectId failed for value "my-posts" (type string) at path "_id" for model "post"
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 89
+  error= Cast to ObjectId failed for value "my" (type string) at path "_id" for model "post"
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\chat.controller.js  
+  type= 24
+  error= Cannot read properties of undefined (reading 'userId')
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\chat.controller.js  
+  type= 57
+  error= Chat.findAll is not a function
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\chat.controller.js  
+  type= 68
+  error= Schema hasn't been registered for model "users".
+Use mongoose.model(name, schema)
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\chat.controller.js  
+  type= 73
+  error= Cannot read properties of undefined (reading '_id')
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\chat.controller.js  
+  type= 73
+  error= Cannot read properties of undefined (reading '_id')
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\chat.controller.js  
+  type= 73
+  error= hat is not defined
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\chat.controller.js  
+  type= 73
+  error= hat is not defined
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\chat.controller.js  
+  type= 73
+  error= Cannot read properties of undefined (reading 'toString')
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\chat.controller.js  
+  type= 73
+  error= Cannot read properties of undefined (reading 'toString')
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 110
+  error= Cast to ObjectId failed for value "my-posts" (type string) at path "_id" for model "post"
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 207
+  error= Cannot read properties of undefined (reading 'map')
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 207
+  error= Cannot read properties of undefined (reading 'map')
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 208
+  error= Cannot read properties of undefined (reading 'map')
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 208
+  error= Cannot read properties of undefined (reading 'map')
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 208
+  error= Cannot read properties of undefined (reading 'map')
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 208
+  error= Cannot read properties of undefined (reading 'map')
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 207
+  error= `Model.findByIdAndUpdate()` cannot run without a model as `this`. Make sure you are not calling `new Model.findByIdAndUpdate()`
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 209
+  error= `Model.update()` cannot run without a model as `this`. Make sure you are not calling `new Model.update()`
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 209
+  error= The field 'likes' must be an array but is of type string in document {_id: ObjectId('6333f2a638b4fb94692d0d29')}
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 209
+  error= The field 'likes' must be an array but is of type string in document {_id: ObjectId('6333f2a638b4fb94692d0d29')}
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 209
+  error= The field 'likes' must be an array but is of type string in document {_id: ObjectId('6333f2a638b4fb94692d0d29')}
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 208
+  error= The field 'likes' must be an array but is of type string in document {_id: ObjectId('6333f2a638b4fb94692d0d29')}
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 208
+  error= The field 'likes' must be an array but is of type string in document {_id: ObjectId('6333f2a638b4fb94692d0d29')}
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 208
+  error= The field 'likes' must be an array but is of type string in document {_id: ObjectId('6333f2a638b4fb94692d0d29')}
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 208
+  error= The field 'likes' must be an array but is of type string in document {_id: ObjectId('6333f2a638b4fb94692d0d29')}
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 208
+  error= The field 'likes' must be an array but is of type string in document {_id: ObjectId('6333f2a638b4fb94692d0d29')}
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 208
+  error= The field 'likes' must be an array but is of type string in document {_id: ObjectId('6333f2a638b4fb94692d0d29')}
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\chat.controller.js  
+  type= 69
+  error= Cannot read properties of null (reading '_id')
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 208
+  error= Cast to ObjectId failed for value "1" (type string) at path "likes" because of "BSONTypeError"
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 208
+  error= The field 'likes' must be an array but is of type string in document {_id: ObjectId('6333f2a638b4fb94692d0d29')}
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 210
+  error= The field 'likes' must be an array but is of type string in document {_id: ObjectId('6333f2a638b4fb94692d0d29')}
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 210
+  error= The field 'likes' must be an array but is of type string in document {_id: ObjectId('6333f2a638b4fb94692d0d29')}
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 112
+  error= Cast to ObjectId failed for value "my-posts" (type string) at path "_id" for model "post"
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 112
+  error= Cast to ObjectId failed for value "my-posts" (type string) at path "_id" for model "post"
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 112
+  error= Cast to ObjectId failed for value "my-posts" (type string) at path "_id" for model "post"
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 112
+  error= Cast to ObjectId failed for value "my-posts" (type string) at path "_id" for model "post"
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 112
+  error= Cast to ObjectId failed for value "my-posts" (type string) at path "_id" for model "post"
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 112
+  error= Cast to ObjectId failed for value "my-posts" (type string) at path "_id" for model "post"
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 112
+  error= Cast to ObjectId failed for value "my-posts" (type string) at path "_id" for model "post"
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 112
+  error= Cast to ObjectId failed for value "my-posts" (type string) at path "_id" for model "post"
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 112
+  error= Cast to ObjectId failed for value "my-posts" (type string) at path "_id" for model "post"
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 112
+  error= Cast to ObjectId failed for value "my-posts" (type string) at path "_id" for model "post"
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 112
+  error= Cast to ObjectId failed for value "my-posts" (type string) at path "_id" for model "post"
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 112
+  error= Cast to ObjectId failed for value "my-posts" (type string) at path "_id" for model "post"
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 112
+  error= Cast to ObjectId failed for value "posts" (type string) at path "_id" for model "post"
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 112
+  error= Cast to ObjectId failed for value "posts" (type string) at path "_id" for model "post"
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 239
+  error= Cannot read properties of undefined (reading 'findOne')
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 102
+  error= Cannot read properties of undefined (reading 'find')
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 102
+  error= Cannot read properties of undefined (reading 'find')
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 113
+  error= Cast to ObjectId failed for value "my-posts" (type string) at path "_id" for model "post"
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 113
+  error= Cast to ObjectId failed for value "posts" (type string) at path "_id" for model "post"
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 113
+  error= Cast to ObjectId failed for value "posts" (type string) at path "_id" for model "post"
+
+=  file= C:\Users\INTERVAL-BACKEND\Desktop\hoby\node-js\dynamic-next-machine-test\api\src\controllers\post.controller.js  
+  type= 96
+  error= Cast to ObjectId failed for value "<ref *2> IncomingMessage {
+  _readableState: ReadableState {
+    objectMode: false,
+    highWaterMark: 16384,
+    buffer: BufferList { head: null, tail: null, length: 0 },
+    length: 0,
+    pipes: [],
+    flowing: null,
+    ended: true,
+    endEmitted: false,
+    reading: false,
+    constructed: true,
+    sync: true,
+    needReadable: false,
+    emittedReadable: false,
+    readableListening: false,
+    resumeScheduled: false,
+    errorEmitted: false,
+    emitClose: true,
+    autoDestroy: true,
+    destroyed: false,
+    errored: null,
+    closed: false,
+    closeEmitted: false,
+    defaultEncoding: 'utf8',
+    awaitDrainWriters: null,
+    multiAwaitDrain: false,
+    readingMore: true,
+    dataEmitted: false,
+    decoder: null,
+    encoding: null,
+    [Symbol(kPaused)]: null
+  },
+  _events: [Object: null prototype] {},
+  _eventsCount: 0,
+  _maxListeners: undefined,
+  socket: <ref *1> Socket {
+    connecting: false,
+    _hadError: false,
+    _parent: null,
+    _host: null,
+    _closeAfterHandlingError: false,
+    _readableState: ReadableState {
+      objectMode: false,
+      highWaterMark: 16384,
+      buffer: BufferList { head: null, tail: null, length: 0 },
+      length: 0,
+      pipes: [],
+      flowing: true,
+      ended: false,
+      endEmitted: false,
+      reading: true,
+      constructed: true,
+      sync: false,
+      needReadable: true,
+      emittedReadable: false,
+      readableListening: false,
+      resumeScheduled: false,
+      errorEmitted: false,
+      emitClose: false,
+      autoDestroy: true,
+      destroyed: false,
+      errored: null,
+      closed: false,
+      closeEmitted: false,
+      defaultEncoding: 'utf8',
+      awaitDrainWriters: null,
+      multiAwaitDrain: false,
+      readingMore: false,
+      dataEmitted: false,
+      decoder: null,
+      encoding: null,
+      [Symbol(kPaused)]: false
+    },
+    _events: [Object: null prototype] {
+      end: [Array],
+      timeout: [Function: socketOnTimeout],
+      data: [Function: bound socketOnData],
+      error: [Array],
+      close: [Array],
+      drain: [Function: bound socketOnDrain],
+      resume: [Function: onSocketResume],
+      pause: [Function: onSocketPause]
+    },
+    _eventsCount: 8,
+    _maxListeners: undefined,
+    _writableState: WritableState {
+      objectMode: false,
+      highWaterMark: 16384,
+      finalCalled: false,
+      needDrain: false,
+      ending: false,
+      ended: false,
+      finished: false,
+      destroyed: false,
+      decodeStrings: false,
+      defaultEncoding: 'utf8',
+      length: 0,
+      writing: false,
+      corked: 0,
+      sync: true,
+      bufferProcessing: false,
+      onwrite: [Function: bound onwrite],
+      writecb: null,
+      writelen: 0,
+      afterWriteTickInfo: null,
+      buffered: [],
+      bufferedIndex: 0,
+      allBuffers: true,
+      allNoop: true,
+      pendingcb: 0,
+      constructed: true,
+      prefinished: false,
+      errorEmitted: false,
+      emitClose: false,
+      autoDestroy: true,
+      errored: null,
+      closed: false,
+      closeEmitted: false,
+      [Symbol(kOnFinished)]: []
+    },
+    allowHalfOpen: true,
+    _sockname: null,
+    _pendingData: null,
+    _pendingEncoding: '',
+    server: Server {
+      maxHeaderSize: undefined,
+      insecureHTTPParser: undefined,
+      requestTimeout: 300000,
+      headersTimeout: 60000,
+      keepAliveTimeout: 5000,
+      connectionsCheckingInterval: 30000,
+      _events: [Object: null prototype],
+      _eventsCount: 2,
+      _maxListeners: undefined,
+      _connections: 1,
+      _handle: [TCP],
+      _usingWorkers: false,
+      _workers: [],
+      _unref: false,
+      allowHalfOpen: true,
+      pauseOnConnect: false,
+      noDelay: true,
+      keepAlive: false,
+      keepAliveInitialDelay: 0,
+      httpAllowHalfOpen: false,
+      timeout: 0,
+      maxHeadersCount: null,
+      maxRequestsPerSocket: 0,
+      _connectionKey: '6::::3001',
+      [Symbol(IncomingMessage)]: [Function: IncomingMessage],
+      [Symbol(ServerResponse)]: [Function: ServerResponse],
+      [Symbol(kCapture)]: false,
+      [Symbol(async_id_symbol)]: 25,
+      [Symbol(http.server.connections)]: ConnectionsList {},
+      [Symbol(http.server.connectionsCheckingInterval)]: Timeout {
+        _idleTimeout: 30000,
+        _idlePrev: [TimersList],
+        _idleNext: [Timeout],
+        _idleStart: 901,
+        _onTimeout: [Function: bound checkConnections],
+        _timerArgs: undefined,
+        _repeat: 30000,
+        _destroyed: false,
+        [Symbol(refed)]: false,
+        [Symbol(kHasPrimitive)]: false,
+        [Symbol(asyncId)]: 24,
+        [Symbol(triggerId)]: 1
+      },
+      [Symbol(kUniqueHeaders)]: null
+    },
+    _server: Server {
+      maxHeaderSize: undefined,
+      insecureHTTPParser: undefined,
+      requestTimeout: 300000,
+      headersTimeout: 60000,
+      keepAliveTimeout: 5000,
+      connectionsCheckingInterval: 30000,
+      _events: [Object: null prototype],
+      _eventsCount: 2,
+      _maxListeners: undefined,
+      _connections: 1,
+      _handle: [TCP],
+      _usingWorkers: false,
+      _workers: [],
+      _unref: false,
+      allowHalfOpen: true,
+      pauseOnConnect: false,
+      noDelay: true,
+      keepAlive: false,
+      keepAliveInitialDelay: 0,
+      httpAllowHalfOpen: false,
+      timeout: 0,
+      maxHeadersCount: null,
+      maxRequestsPerSocket: 0,
+      _connectionKey: '6::::3001',
+      [Symbol(IncomingMessage)]: [Function: IncomingMessage],
+      [Symbol(ServerResponse)]: [Function: ServerResponse],
+      [Symbol(kCapture)]: false,
+      [Symbol(async_id_symbol)]: 25,
+      [Symbol(http.server.connections)]: ConnectionsList {},
+      [Symbol(http.server.connectionsCheckingInterval)]: Timeout {
+        _idleTimeout: 30000,
+        _idlePrev: [TimersList],
+        _idleNext: [Timeout],
+        _idleStart: 901,
+        _onTimeout: [Function: bound checkConnections],
+        _timerArgs: undefined,
+        _repeat: 30000,
+        _destroyed: false,
+        [Symbol(refed)]: false,
+        [Symbol(kHasPrimitive)]: false,
+        [Symbol(asyncId)]: 24,
+        [Symbol(triggerId)]: 1
+      },
+      [Symbol(kUniqueHeaders)]: null
+    },
+    parser: HTTPParser {
+      '0': null,
+      '1': [Function: parserOnHeaders],
+      '2': [Function: parserOnHeadersComplete],
+      '3': [Function: parserOnBody],
+      '4': [Function: parserOnMessageComplete],
+      '5': [Function: bound onParserExecute],
+      '6': [Function: bound onParserTimeout],
+      _headers: [],
+      _url: '',
+      socket: [Circular *1],
+      incoming: [Circular *2],
+      outgoing: null,
+      maxHeaderPairs: 2000,
+      _consumed: true,
+      onIncoming: [Function: bound parserOnIncoming],
+      [Symbol(resource_symbol)]: [HTTPServerAsyncResource]
+    },
+    on: [Function: socketListenerWrap],
+    addListener: [Function: socketListenerWrap],
+    prependListener: [Function: socketListenerWrap],
+    setEncoding: [Function: socketSetEncoding],
+    _paused: false,
+    _httpMessage: ServerResponse {
+      _events: [Object: null prototype],
+      _eventsCount: 2,
+      _maxListeners: undefined,
+      outputData: [],
+      outputSize: 0,
+      writable: true,
+      destroyed: false,
+      _last: false,
+      chunkedEncoding: false,
+      shouldKeepAlive: true,
+      maxRequestsOnConnectionReached: false,
+      _defaultKeepAlive: true,
+      useChunkedEncodingByDefault: true,
+      sendDate: true,
+      _removedConnection: false,
+      _removedContLen: false,
+      _removedTE: false,
+      _contentLength: null,
+      _hasBody: true,
+      _trailer: '',
+      finished: false,
+      _headerSent: false,
+      _closed: false,
+      socket: [Circular *1],
+      _header: null,
+      _keepAliveTimeout: 5000,
+      _onPendingData: [Function: bound updateOutgoingData],
+      req: [Circular *2],
+      _sent100: false,
+      _expect_continue: false,
+      _maxRequestsPerSocket: 0,
+      locals: [Object: null prototype] {},
+      _startAt: undefined,
+      _startTime: undefined,
+      writeHead: [Function: writeHead],
+      __onFinished: [Function],
+      flush: [Function: flush],
+      write: [Function: write],
+      end: [Function: end],
+      on: [Function: on],
+      [Symbol(kCapture)]: false,
+      [Symbol(kNeedDrain)]: false,
+      [Symbol(corked)]: 0,
+      [Symbol(kOutHeaders)]: [Object: null prototype],
+      [Symbol(kUniqueHeaders)]: null
+    },
+    _peername: { address: '::1', family: 'IPv6', port: 54165 },
+    [Symbol(async_id_symbol)]: 136,
+    [Symbol(kHandle)]: TCP {
+      reading: true,
+      onconnection: null,
+      _consumed: true,
+      [Symbol(owner_symbol)]: [Circular *1]
+    },
+    [Symbol(lastWriteQueueSize)]: 0,
+    [Symbol(timeout)]: null,
+    [Symbol(kBuffer)]: null,
+    [Symbol(kBufferCb)]: null,
+    [Symbol(kBufferGen)]: null,
+    [Symbol(kCapture)]: false,
+    [Symbol(kSetNoDelay)]: true,
+    [Symbol(kSetKeepAlive)]: false,
+    [Symbol(kSetKeepAliveInitialDelay)]: 0,
+    [Symbol(kBytesRead)]: 0,
+    [Symbol(kBytesWritten)]: 0
+  },
+  httpVersionMajor: 1,
+  httpVersionMinor: 1,
+  httpVersion: '1.1',
+  complete: true,
+  rawHeaders: [
+    'Authorization',
+    'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzMzE2NWI2ZGRlZDcxODMxYjJmYjM5OSIsInR5cGUiOiJVU0VSIiwiaWF0IjoxNjY0NDM1NDUzfQ.6snuhsTotL4lTArpz233ga-OFdKhcfo6AT2ebvBjA7U',
+    'User-Agent',
+    'PostmanRuntime/7.29.2',
+    'Accept',
+    '*/*',
+    'Postman-Token',
+    '74bf469e-44cb-4451-8100-fed1ee14bde7',
+    'Host',
+    'localhost:3001',
+    'Accept-Encoding',
+    'gzip, deflate, br',
+    'Connection',
+    'keep-alive'
+  ],
+  rawTrailers: [],
+  aborted: false,
+  upgrade: false,
+  url: '/my-posts/post',
+  method: 'GET',
+  statusCode: null,
+  statusMessage: null,
+  client: <ref *1> Socket {
+    connecting: false,
+    _hadError: false,
+    _parent: null,
+    _host: null,
+    _closeAfterHandlingError: false,
+    _readableState: ReadableState {
+      objectMode: false,
+      highWaterMark: 16384,
+      buffer: BufferList { head: null, tail: null, length: 0 },
+      length: 0,
+      pipes: [],
+      flowing: true,
+      ended: false,
+      endEmitted: false,
+      reading: true,
+      constructed: true,
+      sync: false,
+      needReadable: true,
+      emittedReadable: false,
+      readableListening: false,
+      resumeScheduled: false,
+      errorEmitted: false,
+      emitClose: false,
+      autoDestroy: true,
+      destroyed: false,
+      errored: null,
+      closed: false,
+      closeEmitted: false,
+      defaultEncoding: 'utf8',
+      awaitDrainWriters: null,
+      multiAwaitDrain: false,
+      readingMore: false,
+      dataEmitted: false,
+      decoder: null,
+      encoding: null,
+      [Symbol(kPaused)]: false
+    },
+    _events: [Object: null prototype] {
+      end: [Array],
+      timeout: [Function: socketOnTimeout],
+      data: [Function: bound socketOnData],
+      error: [Array],
+      close: [Array],
+      drain: [Function: bound socketOnDrain],
+      resume: [Function: onSocketResume],
+      pause: [Function: onSocketPause]
+    },
+    _eventsCount: 8,
+    _maxListeners: undefined,
+    _writableState: WritableState {
+      objectMode: false,
+      highWaterMark: 16384,
+      finalCalled: false,
+      needDrain: false,
+      ending: false,
+      ended: false,
+      finished: false,
+      destroyed: false,
+      decodeStrings: false,
+      defaultEncoding: 'utf8',
+      length: 0,
+      writing: false,
+      corked: 0,
+      sync: true,
+      bufferProcessing: false,
+      onwrite: [Function: bound onwrite],
+      writecb: null,
+      writelen: 0,
+      afterWriteTickInfo: null,
+      buffered: [],
+      bufferedIndex: 0,
+      allBuffers: true,
+      allNoop: true,
+      pendingcb: 0,
+      constructed: true,
+      prefinished: false,
+      errorEmitted: false,
+      emitClose: false,
+      autoDestroy: true,
+      errored: null,
+      closed: false,
+      closeEmitted: false,
+      [Symbol(kOnFinished)]: []
+    },
+    allowHalfOpen: true,
+    _sockname: null,
+    _pendingData: null,
+    _pendingEncoding: '',
+    server: Server {
+      maxHeaderSize: undefined,
+      insecureHTTPParser: undefined,
+      requestTimeout: 300000,
+      headersTimeout: 60000,
+      keepAliveTimeout: 5000,
+      connectionsCheckingInterval: 30000,
+      _events: [Object: null prototype],
+      _eventsCount: 2,
+      _maxListeners: undefined,
+      _connections: 1,
+      _handle: [TCP],
+      _usingWorkers: false,
+      _workers: [],
+      _unref: false,
+      allowHalfOpen: true,
+      pauseOnConnect: false,
+      noDelay: true,
+      keepAlive: false,
+      keepAliveInitialDelay: 0,
+      httpAllowHalfOpen: false,
+      timeout: 0,
+      maxHeadersCount: null,
+      maxRequestsPerSocket: 0,
+      _connectionKey: '6::::3001',
+      [Symbol(IncomingMessage)]: [Function: IncomingMessage],
+      [Symbol(ServerResponse)]: [Function: ServerResponse],
+      [Symbol(kCapture)]: false,
+      [Symbol(async_id_symbol)]: 25,
+      [Symbol(http.server.connections)]: ConnectionsList {},
+      [Symbol(http.server.connectionsCheckingInterval)]: Timeout {
+        _idleTimeout: 30000,
+        _idlePrev: [TimersList],
+        _idleNext: [Timeout],
+        _idleStart: 901,
+        _onTimeout: [Function: bound checkConnections],
+        _timerArgs: undefined,
+        _repeat: 30000,
+        _destroyed: false,
+        [Symbol(refed)]: false,
+        [Symbol(kHasPrimitive)]: false,
+        [Symbol(asyncId)]: 24,
+        [Symbol(triggerId)]: 1
+      },
+      [Symbol(kUniqueHeaders)]: null
+    },
+    _server: Server {
+      maxHeaderSize: undefined,
+      insecureHTTPParser: undefined,
+      requestTimeout: 300000,
+      headersTimeout: 60000,
+      keepAliveTimeout: 5000,
+      connectionsCheckingInterval: 30000,
+      _events: [Object: null prototype],
+      _eventsCount: 2,
+      _maxListeners: undefined,
+      _connections: 1,
+      _handle: [TCP],
+      _usingWorkers: false,
+      _workers: [],
+      _unref: false,
+      allowHalfOpen: true,
+      pauseOnConnect: false,
+      noDelay: true,
+      keepAlive: false,
+      keepAliveInitialDelay: 0,
+      httpAllowHalfOpen: false,
+      timeout: 0,
+      maxHeadersCount: null,
+      maxRequestsPerSocket: 0,
+      _connectionKey: '6::::3001',
+      [Symbol(IncomingMessage)]: [Function: IncomingMessage],
+      [Symbol(ServerResponse)]: [Function: ServerResponse],
+      [Symbol(kCapture)]: false,
+      [Symbol(async_id_symbol)]: 25,
+      [Symbol(http.server.connections)]: ConnectionsList {},
+      [Symbol(http.server.connectionsCheckingInterval)]: Timeout {
+        _idleTimeout: 30000,
+        _idlePrev: [TimersList],
+        _idleNext: [Timeout],
+        _idleStart: 901,
+        _onTimeout: [Function: bound checkConnections],
+        _timerArgs: undefined,
+        _repeat: 30000,
+        _destroyed: false,
+        [Symbol(refed)]: false,
+        [Symbol(kHasPrimitive)]: false,
+        [Symbol(asyncId)]: 24,
+        [Symbol(triggerId)]: 1
+      },
+      [Symbol(kUniqueHeaders)]: null
+    },
+    parser: HTTPParser {
+      '0': null,
+      '1': [Function: parserOnHeaders],
+      '2': [Function: parserOnHeadersComplete],
+      '3': [Function: parserOnBody],
+      '4': [Function: parserOnMessageComplete],
+      '5': [Function: bound onParserExecute],
+      '6': [Function: bound onParserTimeout],
+      _headers: [],
+      _url: '',
+      socket: [Circular *1],
+      incoming: [Circular *2],
+      outgoing: null,
+      maxHeaderPairs: 2000,
+      _consumed: true,
+      onIncoming: [Function: bound parserOnIncoming],
+      [Symbol(resource_symbol)]: [HTTPServerAsyncResource]
+    },
+    on: [Function: socketListenerWrap],
+    addListener: [Function: socketListenerWrap],
+    prependListener: [Function: socketListenerWrap],
+    setEncoding: [Function: socketSetEncoding],
+    _paused: false,
+    _httpMessage: ServerResponse {
+      _events: [Object: null prototype],
+      _eventsCount: 2,
+      _maxListeners: undefined,
+      outputData: [],
+      outputSize: 0,
+      writable: true,
+      destroyed: false,
+      _last: false,
+      chunkedEncoding: false,
+      shouldKeepAlive: true,
+      maxRequestsOnConnectionReached: false,
+      _defaultKeepAlive: true,
+      useChunkedEncodingByDefault: true,
+      sendDate: true,
+      _removedConnection: false,
+      _removedContLen: false,
+      _removedTE: false,
+      _contentLength: null,
+      _hasBody: true,
+      _trailer: '',
+      finished: false,
+      _headerSent: false,
+      _closed: false,
+      socket: [Circular *1],
+      _header: null,
+      _keepAliveTimeout: 5000,
+      _onPendingData: [Function: bound updateOutgoingData],
+      req: [Circular *2],
+      _sent100: false,
+      _expect_continue: false,
+      _maxRequestsPerSocket: 0,
+      locals: [Object: null prototype] {},
+      _startAt: undefined,
+      _startTime: undefined,
+      writeHead: [Function: writeHead],
+      __onFinished: [Function],
+      flush: [Function: flush],
+      write: [Function: write],
+      end: [Function: end],
+      on: [Function: on],
+      [Symbol(kCapture)]: false,
+      [Symbol(kNeedDrain)]: false,
+      [Symbol(corked)]: 0,
+      [Symbol(kOutHeaders)]: [Object: null prototype],
+      [Symbol(kUniqueHeaders)]: null
+    },
+    _peername: { address: '::1', family: 'IPv6', port: 54165 },
+    [Symbol(async_id_symbol)]: 136,
+    [Symbol(kHandle)]: TCP {
+      reading: true,
+      onconnection: null,
+      _consumed: true,
+      [Symbol(owner_symbol)]: [Circular *1]
+    },
+    [Symbol(lastWriteQueueSize)]: 0,
+    [Symbol(timeout)]: null,
+    [Symbol(kBuffer)]: null,
+    [Symbol(kBufferCb)]: null,
+    [Symbol(kBufferGen)]: null,
+    [Symbol(kCapture)]: false,
+    [Symbol(kSetNoDelay)]: true,
+    [Symbol(kSetKeepAlive)]: false,
+    [Symbol(kSetKeepAliveInitialDelay)]: 0,
+    [Symbol(kBytesRead)]: 0,
+    [Symbol(kBytesWritten)]: 0
+  },
+  _consuming: false,
+  _dumped: false,
+  next: [Function: next],
+  baseUrl: '/posts',
+  originalUrl: '/posts/my-posts/post',
+  _parsedUrl: Url {
+    protocol: null,
+    slashes: null,
+    auth: null,
+    host: null,
+    port: null,
+    hostname: null,
+    hash: null,
+    search: null,
+    query: null,
+    pathname: '/my-posts/post',
+    path: '/my-posts/post',
+    href: '/my-posts/post',
+    _raw: '/my-posts/post'
+  },
+  params: {},
+  query: {},
+  res: <ref *3> ServerResponse {
+    _events: [Object: null prototype] {
+      finish: [Array],
+      end: [Function: onevent]
+    },
+    _eventsCount: 2,
+    _maxListeners: undefined,
+    outputData: [],
+    outputSize: 0,
+    writable: true,
+    destroyed: false,
+    _last: false,
+    chunkedEncoding: false,
+    shouldKeepAlive: true,
+    maxRequestsOnConnectionReached: false,
+    _defaultKeepAlive: true,
+    useChunkedEncodingByDefault: true,
+    sendDate: true,
+    _removedConnection: false,
+    _removedContLen: false,
+    _removedTE: false,
+    _contentLength: null,
+    _hasBody: true,
+    _trailer: '',
+    finished: false,
+    _headerSent: false,
+    _closed: false,
+    socket: <ref *1> Socket {
+      connecting: false,
+      _hadError: false,
+      _parent: null,
+      _host: null,
+      _closeAfterHandlingError: false,
+      _readableState: [ReadableState],
+      _events: [Object: null prototype],
+      _eventsCount: 8,
+      _maxListeners: undefined,
+      _writableState: [WritableState],
+      allowHalfOpen: true,
+      _sockname: null,
+      _pendingData: null,
+      _pendingEncoding: '',
+      server: [Server],
+      _server: [Server],
+      parser: [HTTPParser],
+      on: [Function: socketListenerWrap],
+      addListener: [Function: socketListenerWrap],
+      prependListener: [Function: socketListenerWrap],
+      setEncoding: [Function: socketSetEncoding],
+      _paused: false,
+      _httpMessage: [Circular *3],
+      _peername: [Object],
+      [Symbol(async_id_symbol)]: 136,
+      [Symbol(kHandle)]: [TCP],
+      [Symbol(lastWriteQueueSize)]: 0,
+      [Symbol(timeout)]: null,
+      [Symbol(kBuffer)]: null,
+      [Symbol(kBufferCb)]: null,
+      [Symbol(kBufferGen)]: null,
+      [Symbol(kCapture)]: false,
+      [Symbol(kSetNoDelay)]: true,
+      [Symbol(kSetKeepAlive)]: false,
+      [Symbol(kSetKeepAliveInitialDelay)]: 0,
+      [Symbol(kBytesRead)]: 0,
+      [Symbol(kBytesWritten)]: 0
+    },
+    _header: null,
+    _keepAliveTimeout: 5000,
+    _onPendingData: [Function: bound updateOutgoingData],
+    req: [Circular *2],
+    _sent100: false,
+    _expect_continue: false,
+    _maxRequestsPerSocket: 0,
+    locals: [Object: null prototype] {},
+    _startAt: undefined,
+    _startTime: undefined,
+    writeHead: [Function: writeHead],
+    __onFinished: [Function: listener] { queue: [Array] },
+    flush: [Function: flush],
+    write: [Function: write],
+    end: [Function: end],
+    on: [Function: on],
+    [Symbol(kCapture)]: false,
+    [Symbol(kNeedDrain)]: false,
+    [Symbol(corked)]: 0,
+    [Symbol(kOutHeaders)]: [Object: null prototype] {
+      'x-powered-by': [Array],
+      'access-control-allow-origin': [Array],
+      'x-ratelimit-limit': [Array],
+      'x-ratelimit-remaining': [Array],
+      date: [Array],
+      'x-ratelimit-reset': [Array]
+    },
+    [Symbol(kUniqueHeaders)]: null
+  },
+  body: {},
+  _startAt: [ 57336, 954532800 ],
+  _startTime: 2022-09-29T07:18:28.230Z,
+  _remoteAddress: '::1',
+  _parsedOriginalUrl: Url {
+    protocol: null,
+    slashes: null,
+    auth: null,
+    host: null,
+    port: null,
+    hostname: null,
+    hash: null,
+    search: null,
+    query: null,
+    pathname: '/posts/my-posts/post',
+    path: '/posts/my-posts/post',
+    href: '/posts/my-posts/post',
+    _raw: '/posts/my-posts/post'
+  },
+  rateLimit: {
+    limit: 10,
+    current: 1,
+    remaining: 9,
+    resetTime: 2022-09-29T07:18:57.474Z
+  },
+  route: Route {
+    path: '/my-posts/post',
+    stack: [ [Layer] ],
+    methods: { get: true }
+  },
+  [Symbol(kCapture)]: false,
+  [Symbol(kHeaders)]: {
+    authorization: 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzMzE2NWI2ZGRlZDcxODMxYjJmYjM5OSIsInR5cGUiOiJVU0VSIiwiaWF0IjoxNjY0NDM1NDUzfQ.6snuhsTotL4lTArpz233ga-OFdKhcfo6AT2ebvBjA7U',
+    'user-agent': 'PostmanRuntime/7.29.2',
+    accept: '*/*',
+    'postman-token': '74bf469e-44cb-4451-8100-fed1ee14bde7',
+    host: 'localhost:3001',
+    'accept-encoding': 'gzip, deflate, br',
+    connection: 'keep-alive'
+  },
+  [Symbol(kHeadersCount)]: 14,
+  [Symbol(kTrailers)]: null,
+  [Symbol(kTrailersCount)]: 0
+}" (type IncomingMessage) at path "createdBy" for model "post"
+
